@@ -8,3 +8,6 @@
 
 
 Heap API implemented in c
+
+
+Check "Example_HeapSort.c" and "Example_CreateHeap.c" files for general usage of the API
