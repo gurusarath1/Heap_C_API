@@ -3,6 +3,8 @@ API Written by: Guru Sarath
 Date: 19 May 2019
 */
 
+#include "Heap_API.h"
+
 /*
     Function Name: CreateHeap
     Inputs: Maximum size of heap; Type of heap (MIN or MAX)
